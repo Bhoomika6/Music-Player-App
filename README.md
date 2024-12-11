@@ -11,11 +11,14 @@ Song Removal: Option to remove songs from playlists.
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Libraries/Tools: [Add any additional libraries if applicable]
+
 📂 Project Structure
 All Songs: Displays a list of all songs with filtering options.
 Song Card: Showcases details and controls for the currently playing song.
 Playlists: Manage existing playlists or create new ones.
 Theme Toggle: A button to switch between dark and light themes.
+
+
 🔧 Installation and Usage
 Clone the repository:
 bash
@@ -26,10 +29,14 @@ bash
 Copy code
 cd music-player
 Open the index.html file in your browser to run the application.
+
+
 💡 Future Enhancements
 Add support for streaming online music.
 Integrate volume and shuffle controls.
 Enhance the UI with animations and transitions.
+
+
 📜 License
 This project is licensed under the MIT License.
 
